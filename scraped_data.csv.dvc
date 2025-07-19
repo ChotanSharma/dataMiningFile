@@ -1,0 +1,6 @@
+outs:
+- md5: d7b47c870200b4d6d33abbe3b0fb95f2
+  size: 1447
+  isexec: true
+  hash: md5
+  path: scraped_data.csv
